@@ -1,0 +1,17 @@
+{
+  "name": "hmcon-restore",
+  "description": "Restore CCU2-Backups to Hmcon",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Raff <hq@ccu.io> (https://github.com/hobbyquaker)",
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "xml2js": "^0.4.16",
+    "yargs": "^4.3.2"
+  }
+}
