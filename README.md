@@ -1,5 +1,7 @@
 # hmcon-restore
 
+**Work in Progress - noch nicht nutzbar!**
+
 Dieses Tool dient dazu CCU2 Backups in [Hmcon](https://github.com/hobbyquaker/hmcon) einspielen.
 
 Geräte/Kanal-Namen werden aus der Regadom geparsed und in einer für 
